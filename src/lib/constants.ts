@@ -35,8 +35,8 @@ export const CAROUSEL_IMAGES = [
 export const FEATURED_VIDEOS = [
   {
     id: 1,
-    title: "Billie Jean (Live at Motown 25)",
-    embedId: "g3t9-jNjK-A",
+    title: "Michael Jackson - Smooth Criminal (Official Video)",
+    embedId: "h_D3VFfhvs4",
     description: "The legendary performance where Michael first showcased the moonwalk"
   },
   {
@@ -47,8 +47,8 @@ export const FEATURED_VIDEOS = [
   },
   {
     id: 3,
-    title: "Man in the Mirror (Live)",
-    embedId: "PivWY9wn5ps",
+    title: "Michael Jackson - They Don’t Care About Us (Brazil Version) (Official Video)",
+    embedId: "QNJL6nfu__Q",
     description: "One of Michael's most powerful and emotional performances"
   }
 ];
